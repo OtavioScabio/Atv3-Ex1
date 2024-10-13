@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AbastecaCerto</string>
+    <string name="VlrEtanol">Valor do Etanol</string>
+    <string name="VlrGasolina">Valor da Gasolina</string>string>
+    <string name="Comparar">Comparar</string>string>
+</resources>
